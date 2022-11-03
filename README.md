@@ -1,3 +1,14 @@
+- [CFSC数据集](#cfsc数据集)
+      - [数据集分布情况](#数据集分布情况)
+  - [CFSC-ABSA](#cfsc-absa)
+      - [CFSC-ABSA数据集情感分布情况](#cfsc-absa数据集情感分布情况)
+    - [Example](#example)
+  - [CFSC-NER](#cfsc-ner)
+      - [CFSC-NER数据集金融实体类别分布情况](#cfsc-ner数据集金融实体类别分布情况)
+    - [Example](#example-1)
+      - [原始数据](#原始数据)
+      - [BIO标注数据](#bio标注数据)
+  - [Reference](#reference)
 # CFSC数据集
 CFSC数据集总共包含用于情感分析的CFSC-ABSA和用于命名实体识别的CFSC-NER两个子数据集。
 
