@@ -6,7 +6,7 @@
       - [未分词](/CFSC-ABSA/未分词)
   - [CFSC-NER](/CFSC-NER)
       - [json格式](/CFSC-NER/json格式)
-      - [BIO标注](/CFSC-NER/)
+      - [BIO标注](/CFSC-NER/BIO)
   - [Reference](#reference)
 # CFSC数据集
 CFSC数据集总共包含用于情感分析的CFSC-ABSA和用于命名实体识别的CFSC-NER两个子数据集。
